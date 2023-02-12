@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Mati Ur Rehman"
 title_separator          : "-"
-name                     : &name "Mati Ur Rehman"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://matirehman01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
