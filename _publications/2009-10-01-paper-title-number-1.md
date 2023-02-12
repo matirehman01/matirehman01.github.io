@@ -2,7 +2,7 @@
 title: "Healthcare 4.0: Trends, Challenges and Benefits"
 collection: publications
 permalink: /publication/2019-healthcare-4-trends-challenges-and-benefits
-excerpt:
+excerpt: ""
 date: 2019-12-01
 venue: 'ACIS 2019 Proceedings'
 paperurl: 'https://aisel.aisnet.org/acis2019/59'
