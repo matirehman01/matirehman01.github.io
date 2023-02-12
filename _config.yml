@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-3M6V0EWHJX"
 
 
 # Site Author
@@ -146,6 +146,9 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - talks
+  - markdown_generator
+  
 keep_files:
   - .git
   - .svn
@@ -182,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
