@@ -2,7 +2,7 @@
 title: "IT Affordances and Social Commerce: Used Product Marketplace"
 collection: publications
 permalink: /publication/2021-it-affordances-and-social-commerce-used-product-marketplace
-excerpt: 'The e-commerce market continues to grow, and as more and more information is available to
+excerpt: "The e-commerce market continues to grow, and as more and more information is available to
 consumers, the way they interact with technology is changing. Various online social commerce
 (OSC) platforms are available to users, such as WeChat and Facebook. Our study focuses on
 Facebook and, more specifically, Facebook Marketplace which is most often used for resale of
@@ -20,12 +20,13 @@ are not suited to Facebook Marketplace. Some of the constructs do not apply as d
 features on other platforms are not generalizable. Additionally, to the best of our knowledge, the
 IS affordance literature has only focused on the buyer and not the seller or their interactions.
 Furthermore, the measures have not focused on OSC platforms for pre-owned products where
-most users are not professional sellers but occasionally sell various used products locally.'
+most users are not professional sellers but occasionally sell various used products locally."
 date: 2021-12-12
 venue: 'ICIS 2021 TREOs'
 paperurl: 'https://aisel.aisnet.org/treos_icis2021/63'
 citation: 'Ur Rehman, Mati and Nilakanta, Sree, "IT Affordances and Social Commerce: Used Product Marketplace" (2021). ICIS 2021 TREOs. 63.'
 ---
+## Abstract
 The e-commerce market continues to grow, and as more and more information is available to
 consumers, the way they interact with technology is changing. Various online social commerce
 (OSC) platforms are available to users, such as WeChat and Facebook. Our study focuses on
