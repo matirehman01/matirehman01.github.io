@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Healthcare 4.0: Trends, Challenges and Benefits"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-Healthcare-4-Trends-Challenges-and-Benefits
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019
+venue: 'ACIS 2019 Proceedings'
+paperurl: 'https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1058&context=acis2019'
+citation: 'Rehman, Mati Ur; Andargoli, Amirhossein Eslami; and Pousti, Hamid, "Healthcare 4.0: Trends, Challenges and Benefits" (2019). ACIS 2019 Proceedings. 59.
+https://aisel.aisnet.org/acis2019/59'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The Fourth Industry Revolution, known as Industry 4.0, refers to the forces that are transforming industry, including the healthcare industry, where it has been termed Healthcare 4.0. Though lagging other industries in the adoption of new innovative technologies, the healthcare industry is embracing the potential benefits that arise from new innovative technologies. New trends revealed both in the academic literature and by industry practice show that researchers and practitioners are becoming more aware of the benefits technology can bring to an industry as complex as the healthcare industry. The object of the study is to identify the challenges, trends and gaps in the existing body of research with regard to Healthcare 4.0. In this study, a systematic literature review on Healthcare 4.0 research papers was conducted to identify trends, challenges and the perceived benefits that may arise from it. This paper found that there is a need to conduct more empirical studies in this area. It, further, identified the need to implement practical procedures in the industry to get feedback from patients and healthcare participants in order to promote the adoption of new Healthcare 4.0 technologies
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1058&context=acis2019))
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rehman, Mati Ur; Andargoli, Amirhossein Eslami; and Pousti, Hamid, "Healthcare 4.0: Trends, Challenges and Benefits" (2019). ACIS 2019 Proceedings. 59.
+https://aisel.aisnet.org/acis2019/59
