@@ -3,7 +3,7 @@ title: "Healthcare 4.0: Trends, Challenges and Benefits"
 collection: publications
 permalink: /publication/2019-healthcare-4-trends-challenges-and-benefits
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019
+date: 2019-12-01
 venue: 'ACIS 2019 Proceedings'
 paperurl: 'https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1058&context=acis2019'
 citation: 'Rehman, Mati Ur; Andargoli, Amirhossein Eslami; and Pousti, Hamid, "Healthcare 4.0: Trends, Challenges and Benefits" (2019). ACIS 2019 Proceedings. 59.
