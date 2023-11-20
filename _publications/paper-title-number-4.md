@@ -1,7 +1,7 @@
 ---
 title: "Values of Social Commerce: Influence of Affordance"
 collection: publications
-permalink: /publication/2023-08-10-Values-of-Social-Commerce-Influence-of-Affordance
+permalink: /publications/2023-08-10-Values-of-Social-Commerce-Influence-of-Affordance
 excerpt: ""
 date: 2023-08-10
 venue: 'AMCIS 2023 Proceedings'
