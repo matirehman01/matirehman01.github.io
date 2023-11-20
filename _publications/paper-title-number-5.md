@@ -1,7 +1,7 @@
 ---
 title: "An Investigation to reduce Overreliance on Explainable AI (XAI) in light of Two System Theory"
 collection: publications
-permalink: /publication/2023-08-10-An-Investigation-to-reduce-Overreliance-on-Explainable-AI-XAI
+permalink: /publications/2023-08-10-An-Investigation-to-reduce-Overreliance-on-Explainable-AI-XAI
 excerpt: ""
 date: 2023-08-10
 venue: 'AMCIS 2023 Proceedings'
