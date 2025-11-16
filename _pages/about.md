@@ -9,6 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Mati, a Ph.D. student in [Information Systems at Ivy College of Business, Iowa State University](https://www.ivybusiness.iastate.edu/directory/mati/). My research focuses on examining how users interact with technological platforms, such as Facebook Marketplace and AI-based decision-making services. Through the use of both qualitative and quantitative methods, I investigate the decision-making processes of individuals, exploring the impact of various human characteristics on user behavior and response.
+Hi! I’m Mati, a Ph.D. Candidate in n [Information Systems at Ivy College of Business, Iowa State University](https://www.ivybusiness.iastate.edu/directory/mati/).I specialize in AI contestation, studying how individuals question, challenge, and respond to AI-driven decisions. Using behavioral experiments and qualitative methods, my work examines when users push back against AI, how they assign responsibility for AI errors, and how organizational responses shape the willingness to contest automated decisions.
 
-By uncovering the biases and hindrances of AI and technology use, my research provides valuable insights that can enhance user experiences and promote better applications of new technology. Ultimately, my work seeks to shed light on the complex interplay between human decision-making and technology, offering significant implications for the design and implementation of new platforms.
+Alongside my primary focus on contestability and accountability in human-AI interaction, I also examine user behavior in non-traditional uses of social media, such as Facebook Marketplace, investigating how platform features create value and affordances and how they shape local buyer–seller dynamics.
+
+Across both research streams, my goal is to better understand how people make decisions in technology-mediated environments and to generate insights that support more transparent, responsible, and human-centered AI systems and digital platforms.
