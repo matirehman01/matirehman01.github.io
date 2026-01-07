@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Mati, a Ph.D. Candidate in [Information Systems at Ivy College of Business, Iowa State University](https://www.ivybusiness.iastate.edu/directory/mati/). I specialize in AI contestation, studying how individuals question, challenge, and respond to AI-driven decisions. Using behavioral experiments and qualitative methods, my work examines when users push back against AI, how they assign responsibility for AI errors, and how organizational responses shape the willingness to contest automated decisions.
+Hi! I’m Mati, a Ph.D. Candidate in [Information Systems at Ivy College of Business, Iowa State University](https://www.ivybusiness.iastate.edu/directory/mati/), advised by [Dr. Rui Chen](https://www.ivybusiness.iastate.edu/directory/ruichen/) and [Dr. Sree Nilakanta](https://www.ivybusiness.iastate.edu/directory/nilakant/).I specialize in AI contestation, studying how individuals question, challenge, and respond to AI-driven decisions. Using behavioral experiments and qualitative methods, my work examines when users push back against AI, how they assign responsibility for AI errors, and how organizational responses shape the willingness to contest automated decisions.
 
 Alongside my primary focus on contestability and accountability in human-AI interaction, I also examine user behavior in non-traditional uses of social media, such as Facebook Marketplace, investigating how platform features create value and affordances and how they shape local buyer–seller dynamics.
 
