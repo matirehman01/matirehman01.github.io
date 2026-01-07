@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mati Ur Rehman"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Hi! I’m Mati, a Ph.D. student in Information Systems at Ivy College of Business, Iowa State University. My research focuses on examining how users interact with technological platforms, such as Facebook Marketplace and AI-based decision-making services."
+description              : &description "PhD Candidate at Iowa State University"
 url                      : "https://matiurrehman.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matirehman01/matirehman01.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "G-3M6V0EWHJX"
 
@@ -83,11 +83,11 @@ author:
   name             : "Mati Ur Rehman"
   avatar           : "profile.png"
   bio              : "MIS PhD Candidate | Iowa State University 2026 | Swinburne 2020 | LUMS 2017"
-  location         :
+  location         : "Ames, Iowa"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=y54rDXwAAAAJ&hl=en"
-  email            :
+  email            : "mati@iastate.edu"
   researchgate     : "https://www.researchgate.net/profile/Mati-Ur-Rehman-4"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@ImMatiUrRehman"
+  twitter          : "ImMatiUrRehman"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago #https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
