@@ -1,39 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset 
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://matiurrehman.com/</loc>
-  <lastmod>2023-02-15T21:31:46+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://matiurrehman.com/</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://matiurrehman.com/publications/</loc>
-  <lastmod>2023-02-15T21:31:46+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://matiurrehman.com/publications/</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://matiurrehman.com/files/Mati_Ur%20Rehman-Curriculum_Vitae.pdf</loc>
-  <lastmod>2023-02-15T21:31:36+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://matiurrehman.com/files/Mati_Ur%20Rehman-Curriculum_Vitae.pdf</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://matiurrehman.com/publication/2022-08-10-it-affordances-and-consumption-values-perspective-for-the-use-of-social-commerce</loc>
-  <lastmod>2023-02-15T21:31:46+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://matiurrehman.com/publications/2025-12-16-When-AI-Gets-It-Wrong-User-Contestation-and-the-Attribution-of-Error</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://matiurrehman.com/publication/2021-it-affordances-and-social-commerce-used-product-marketplace</loc>
-  <lastmod>2023-02-15T21:31:46+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://matiurrehman.com/publications/2023-08-10-An-Investigation-to-reduce-Overreliance-on-Explainable-AI-XAI</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://matiurrehman.com/publication/2019-healthcare-4-trends-challenges-and-benefits</loc>
-  <lastmod>2023-02-15T21:31:46+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://matiurrehman.com/publications/2023-08-10-Values-of-Social-Commerce-Influence-of-Affordance</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>0.64</priority>
 </url>
-
-
+<url>
+<loc>https://matiurrehman.com/publications/2022-08-10-it-affordances-and-consumption-values-perspective-for-the-use-of-social-commerce</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://matiurrehman.com/publications/2021-it-affordances-and-social-commerce-used-product-marketplace</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://matiurrehman.com/publications/2019-healthcare-4-trends-challenges-and-benefits</loc>
+<lastmod>2026-01-07T07:26:55+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>
