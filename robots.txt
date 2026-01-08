@@ -12,7 +12,9 @@ Disallow: /talkmap.html
 Disallow: /terms/
 Disallow: /year-archive/
 Disallow: /images/
+Disallow: /cv/
 
 Crawl-Delay: 20
 
 Sitemap: https://matiurrehman.com/sitemap.xml
+
