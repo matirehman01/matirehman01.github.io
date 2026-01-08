@@ -148,6 +148,7 @@ exclude:
   - vendor
   - talks
   - markdown_generator
+  - cv
   
 keep_files:
   - .git
