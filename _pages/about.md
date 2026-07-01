@@ -59,7 +59,6 @@ redirect_from:
       <p class="notebook-section-label">Methods</p>
       <h2>Behavioral and qualitative inquiry</h2>
       <p>My work uses behavioral experiments and qualitative methods to understand how people interpret, challenge, and respond to AI-mediated decisions.</p>
-      <span class="notebook-margin-mark">field notes</span>
     </article>
 
     <article class="notebook-panel">
