@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: "AI Contestation Researcher"
+title: ""
 excerpt: "Mati Ur Rehman is a Ph.D. Candidate in Information Systems at Iowa State University studying AI contestation, accountability, and human responses to automated decisions."
 redirect_from:
   - /about/
