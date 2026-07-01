@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: default
-title: "Mati Ur Rehman"
-excerpt: "Mati Ur Rehman is a Ph.D. Candidate in Information Systems at Iowa State University studying how technology shapes decisions, organizations, and markets."
+title: "AI Contestation Researcher"
+excerpt: "Mati Ur Rehman is a Ph.D. Candidate in Information Systems at Iowa State University studying AI contestation, accountability, and human responses to automated decisions."
 redirect_from:
   - /about/
   - /about.html
@@ -21,7 +21,7 @@ redirect_from:
     <div class="notebook-hero__content">
       <p class="notebook-kicker">Information Systems</p>
       <h1 id="home-title">Mati Ur Rehman</h1>
-      <p class="notebook-dek">Researching how technology shapes decisions, organizations, and markets.</p>
+      <p class="notebook-dek">Researching AI contestation, accountability, and human responses to automated decisions.</p>
       <p class="notebook-intro">
         I am a Ph.D. Candidate in
         <a href="https://www.ivybusiness.iastate.edu/directory/mati/">Information Systems at Ivy College of Business, Iowa State University</a>,
@@ -29,7 +29,7 @@ redirect_from:
         <a href="https://www.ivybusiness.iastate.edu/directory/ruichen/">Dr. Rui Chen</a>
         and
         <a href="https://www.ivybusiness.iastate.edu/directory/nilakant/">Dr. Sree Nilakanta</a>.
-        My work studies how people make decisions in technology-mediated environments, with attention to accountability, platform design, and organizational responses.
+        My current research examines how people question, challenge, and respond to AI-driven decisions, with attention to accountability, responsibility, and organizational responses.
       </p>
 
       <div class="notebook-actions" aria-label="Primary links">
@@ -39,31 +39,43 @@ redirect_from:
       </div>
     </div>
 
-    <aside class="notebook-note" aria-label="Research focus">
+    <aside class="notebook-note" aria-label="Current AI research agenda">
       <span class="notebook-note__label">Research agenda</span>
-      <p>People, platforms, and the institutions that shape technology use.</p>
+      <p>AI contestation: when users push back against automated decisions, how responsibility is assigned, and how organizations respond.</p>
     </aside>
   </section>
 
   <section class="notebook-grid" aria-label="Homepage sections">
     <article class="notebook-panel notebook-panel--large">
       <p class="notebook-section-label">Research</p>
-      <h2>Decision making in digital environments</h2>
+      <h2>Contesting AI decisions</h2>
       <p>
-        My current research examines how individuals question and respond to technology-mediated decisions, how responsibility is assigned when systems fail, and how digital platforms create value through design and affordances.
+        I study AI contestability in human-AI interaction: when people push back against AI decisions, how they assign responsibility for AI errors, and how institutional responses shape whether users are willing to contest automated outcomes.
       </p>
       <a class="notebook-text-link" href="/publications/">Read research and publications</a>
     </article>
 
-    <article class="notebook-panel">
-      <p class="notebook-section-label">Academic Profile</p>
-      <h2>Current appointment</h2>
-      <p>Ph.D. Candidate, Information Systems, Ivy College of Business, Iowa State University.</p>
+    <article class="notebook-panel notebook-panel--annotated">
+      <p class="notebook-section-label">Methods</p>
+      <h2>Behavioral and qualitative inquiry</h2>
+      <p>My work uses behavioral experiments and qualitative methods to understand how people interpret, challenge, and respond to AI-mediated decisions.</p>
+      <span class="notebook-margin-mark">field notes</span>
     </article>
 
-    <article class="notebook-panel" id="contact">
+    <article class="notebook-panel">
+      <p class="notebook-section-label">Earlier / adjacent work</p>
+      <h2>Platforms and social commerce</h2>
+      <p>I also examine how platform features create value and affordances, particularly in non-traditional social media markets and local buyer-seller interactions.</p>
+    </article>
+  </section>
+
+  <section class="notebook-strip" aria-label="Academic details">
+    <div>
+      <p class="notebook-section-label">Current appointment</p>
+      <p>Ph.D. Candidate, Information Systems, Ivy College of Business, Iowa State University.</p>
+    </div>
+    <div id="contact">
       <p class="notebook-section-label">Contact</p>
-      <h2>Connect</h2>
       <ul class="notebook-link-list">
         <li><a href="mailto:mati@iastate.edu">mati@iastate.edu</a></li>
         <li><a href="https://www.linkedin.com/in/matiurrehmanpk">LinkedIn</a></li>
@@ -71,6 +83,6 @@ redirect_from:
         <li><a href="https://twitter.com/ImMatiUrRehman">X</a></li>
         <li><a href="https://orcid.org/0000-0002-5324-9550">ORCID</a></li>
       </ul>
-    </article>
+    </div>
   </section>
 </main>
