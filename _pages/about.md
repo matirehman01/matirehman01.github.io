@@ -2,6 +2,7 @@
 permalink: /
 layout: default
 title: "AI Contestation, Attribution, and AI Blaming"
+browser_title: "Mati Ur Rehman, PhD Candidate | Iowa State University"
 excerpt: "Mati Ur Rehman is a Ph.D. Candidate in Information Systems at Iowa State University studying AI contestation, accountability, and human responses to automated decisions."
 redirect_from:
   - /about/

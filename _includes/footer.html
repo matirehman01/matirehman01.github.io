@@ -1,8 +1,8 @@
 {% include base_path %}
 
 <div class="page__footer-follow">
+  <p class="page__footer-label">Connect</p>
   <ul class="social-icons">
-    <li><strong>Connect</strong></li>
     {% if site.author.email %}
       <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a></li>
     {% endif %}
@@ -33,4 +33,4 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Built with Jekyll.</div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>
