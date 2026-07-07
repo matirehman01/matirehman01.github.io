@@ -44,8 +44,8 @@ redirect_from:
       </div>
     </div>
 
-    <aside class="notebook-note" aria-label="Current AI research agenda">
-      <span class="notebook-note__label">Research agenda</span>
+    <aside class="research-summary" aria-label="Current AI research agenda">
+      <span class="research-summary__label">Research agenda</span>
       <p>AI contestation: when users push back against automated decisions, how responsibility is assigned, and how organizations respond.</p>
       <ul class="notebook-question-list">
         <li>When do users contest AI decisions?</li>
@@ -54,11 +54,6 @@ redirect_from:
       </ul>
     </aside>
 
-    <aside class="notebook-side-note notebook-side-note--identity" aria-label="Academic identity notes">
-      <span>MIS PhD Student</span>
-      <span>Iowa State University</span>
-      <span>AI Contestation</span>
-    </aside>
   </section>
 
   <section class="notebook-grid" aria-label="Homepage sections">

@@ -16,7 +16,7 @@ excerpt: "Research and publications by Mati Ur Rehman on AI contestation, attrib
       <p class="notebook-dek">Current work on AI contestation, attribution, AI blaming, and human responses to automated decisions.</p>
     </div>
 
-    <aside class="notebook-research-note notebook-research-note--hero">
+    <aside class="research-summary research-summary--compact">
       <p class="notebook-section-label">Current focus</p>
       <p>AI Contestation, Attribution, AI Blaming.</p>
     </aside>
