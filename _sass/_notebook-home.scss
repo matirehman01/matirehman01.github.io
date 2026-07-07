@@ -323,17 +323,13 @@
 }
 
 .research-summary--compact {
-  align-self: start;
+  align-self: center;
   padding: 1.2rem 1.25rem;
   border: 1px solid rgba(217, 224, 231, 0.92);
   border-top: 3px solid var(--notebook-brick);
   border-radius: 4px;
   background: #ffffff;
   box-shadow: 0 12px 28px rgba(23, 32, 42, 0.05);
-}
-
-.research-summary--compact {
-  align-self: center;
 }
 
 .research-summary--compact p:not(.notebook-section-label) {
