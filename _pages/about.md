@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: ""
+title: "AI Contestation, Attribution, and AI Blaming"
 excerpt: "Mati Ur Rehman is a Ph.D. Candidate in Information Systems at Iowa State University studying AI contestation, accountability, and human responses to automated decisions."
 redirect_from:
   - /about/
@@ -11,7 +11,11 @@ redirect_from:
 <main class="notebook-home" aria-labelledby="home-title">
   <section class="notebook-hero">
     <div class="notebook-hero__portrait">
-      <img src="/images/profile.png" alt="Mati Ur Rehman">
+      <img
+        src="/images/profile-640.jpg"
+        srcset="/images/profile-320.jpg 320w, /images/profile-640.jpg 640w"
+        sizes="(max-width: 520px) 82px, 255px"
+        alt="Mati Ur Rehman">
       <div class="notebook-hero__caption">
         <span>PhD Candidate</span>
         <span>Iowa State University</span>
@@ -33,15 +37,26 @@ redirect_from:
       </p>
 
       <div class="notebook-actions" aria-label="Primary links">
-        <a class="notebook-button notebook-button--primary" href="/files/Mati_Ur Rehman-Curriculum_Vitae.pdf">Download CV</a>
-        <a class="notebook-button" href="https://scholar.google.com/citations?user=y54rDXwAAAAJ&hl=en">Google Scholar</a>
-        <a class="notebook-button" href="mailto:mati@iastate.edu">Email</a>
+        <a class="notebook-button notebook-button--primary" href="/files/Mati_Ur%20Rehman-Curriculum_Vitae.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i> Download CV</a>
+        <a class="notebook-button" href="https://scholar.google.com/citations?user=y54rDXwAAAAJ&hl=en"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
+        <a class="notebook-button" href="mailto:mati@iastate.edu"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
       </div>
     </div>
 
     <aside class="notebook-note" aria-label="Current AI research agenda">
       <span class="notebook-note__label">Research agenda</span>
       <p>AI contestation: when users push back against automated decisions, how responsibility is assigned, and how organizations respond.</p>
+      <ul class="notebook-question-list">
+        <li>When do users contest AI decisions?</li>
+        <li>Who is held responsible for AI errors?</li>
+        <li>Which responses make contestation possible?</li>
+      </ul>
+    </aside>
+
+    <aside class="notebook-side-note notebook-side-note--identity" aria-label="Academic identity notes">
+      <span>MIS PhD Student</span>
+      <span>Iowa State University</span>
+      <span>AI Contestation</span>
     </aside>
   </section>
 
@@ -70,17 +85,17 @@ redirect_from:
 
   <section class="notebook-strip" aria-label="Academic details">
     <div>
-      <p class="notebook-section-label">Current appointment</p>
+      <p class="notebook-section-label">Academics</p>
       <p>Ph.D. Candidate, Information Systems, Ivy College of Business, Iowa State University.</p>
     </div>
     <div id="contact">
       <p class="notebook-section-label">Contact</p>
       <ul class="notebook-link-list">
-        <li><a href="mailto:mati@iastate.edu">mati@iastate.edu</a></li>
-        <li><a href="https://www.linkedin.com/in/matiurrehmanpk">LinkedIn</a></li>
-        <li><a href="https://www.researchgate.net/profile/Mati-Ur-Rehman-4">ResearchGate</a></li>
-        <li><a href="https://twitter.com/ImMatiUrRehman">X</a></li>
-        <li><a href="https://orcid.org/0000-0002-5324-9550">ORCID</a></li>
+        <li><a href="mailto:mati@iastate.edu"><i class="fas fa-envelope" aria-hidden="true"></i> mati@iastate.edu</a></li>
+        <li><a href="https://www.linkedin.com/in/matiurrehmanpk"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        <li><a href="https://www.researchgate.net/profile/Mati-Ur-Rehman-4"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><a href="https://twitter.com/ImMatiUrRehman"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i> X</a></li>
+        <li><a href="https://orcid.org/0000-0002-5324-9550"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>
       </ul>
     </div>
   </section>

@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /files/Mati_Ur Rehman-Curriculum_Vitae.pdf
+    url: /files/Mati_Ur%20Rehman-Curriculum_Vitae.pdf
 
   - title: "Contact"
     url: /#contact

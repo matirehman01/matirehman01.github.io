@@ -10,26 +10,28 @@
   width: 100%;
   clear: both;
   /* sticky footer fix start */
-  position: absolute;
+  position: relative;
   bottom: 0em;
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
+  color: #3f3a33;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  background:
+    linear-gradient(90deg, transparent 0, transparent 86px, rgba(155, 70, 58, 0.22) 87px, transparent 88px),
+    repeating-linear-gradient(0deg, #fbfaf7, #fbfaf7 33px, rgba(221, 215, 202, 0.28) 34px);
+  border-top: 1px solid #ddd7ca;
 
   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 0;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 1.35em 1.5em 2em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -37,7 +39,7 @@
   }
 
   a {
-    color: inherit;
+    color: #9b463a;
     text-decoration: none;
 
     &:hover {
@@ -48,13 +50,17 @@
   .fas,
   .fab,
   .far,
-  .fal {
-    color: mix(#fff, $gray, 25%);
+  .fal,
+  .fa-brands,
+  .ai {
+    color: #426c63;
   }
 }
 
 .page__footer-copyright {
-  font-family: $global-font-family;
+  max-width: 720px;
+  color: #6f6a60;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: $type-size-7;
 }
 
@@ -67,10 +73,10 @@
 
   li {
     display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
+    font-size: $type-size-7;
     text-transform: uppercase;
   }
 
@@ -80,7 +86,11 @@
   }
 
   a {
-    padding-right: 10px;
+    display: inline-flex;
+    gap: 0.35rem;
+    align-items: center;
+    min-height: 2.35rem;
+    padding-right: 12px;
     font-weight: bold;
   }
 

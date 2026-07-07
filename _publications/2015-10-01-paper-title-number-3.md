@@ -1,6 +1,7 @@
 ---
 title: "IT Affordances and Consumption Values Perspective for the Use of Social Commerce"
 collection: publications
+research_stream: platforms
 permalink: /publications/2022-08-10-it-affordances-and-consumption-values-perspective-for-the-use-of-social-commerce
 excerpt: ""
 date: 2022-08-10

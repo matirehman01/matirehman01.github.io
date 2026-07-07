@@ -1,6 +1,7 @@
 ---
 title: "Values of Social Commerce: Influence of Affordance"
 collection: publications
+research_stream: platforms
 permalink: /publications/2023-08-10-Values-of-Social-Commerce-Influence-of-Affordance
 excerpt: ""
 date: 2023-08-10

@@ -1,6 +1,7 @@
 ---
 title: "Healthcare 4.0: Trends, Challenges and Benefits"
 collection: publications
+research_stream: platforms
 permalink: /publications/2019-healthcare-4-trends-challenges-and-benefits
 excerpt: ""
 date: 2019-12-01

@@ -1,6 +1,7 @@
 ---
 title: "IT Affordances and Social Commerce: Used Product Marketplace"
 collection: publications
+research_stream: platforms
 permalink: /publications/2021-it-affordances-and-social-commerce-used-product-marketplace
 excerpt: ""
 date: 2021-12-12

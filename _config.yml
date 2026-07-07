@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mati Ur Rehman"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Mati Ur Rehman"
 description              : &description "PhD Candidate at Iowa State University"
 url                      : "https://matiurrehman.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,18 +57,23 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@ImMatiUrRehman"
+  username               : "ImMatiUrRehman"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  profile.png
+og_image                 :  profile-640.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person"
+  name                   : "Mati Ur Rehman"
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=y54rDXwAAAAJ&hl=en"
+    - "https://www.linkedin.com/in/matiurrehmanpk"
+    - "https://www.researchgate.net/profile/Mati-Ur-Rehman-4"
+    - "https://x.com/ImMatiUrRehman"
+    - "https://orcid.org/0000-0002-5324-9550"
 
 
 # Analytics
@@ -81,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Mati Ur Rehman"
-  avatar           : "profile.png"
+  avatar           : "profile-640.jpg"
   bio              : "MIS PhD Candidate | Iowa State University 2026 | Swinburne 2020 | LUMS 2017"
   location         : "Ames, Iowa"
   employer         :
