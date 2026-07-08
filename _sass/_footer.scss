@@ -11,13 +11,13 @@
   clear: both;
   position: relative;
   margin-top: 2.25em;
-  color: #3f3a33;
+  color: var(--notebook-body);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background: #ffffff;
-  border-top: 1px solid #d9e0e7;
+  background: var(--notebook-paper);
+  border-top: 1px solid var(--notebook-line);
 
   footer {
     @include clearfix;
@@ -44,11 +44,11 @@
   }
 
   a {
-    color: #17202a;
+    color: var(--notebook-ink);
     text-decoration: none;
 
     &:hover {
-      color: #1f6f68;
+      color: var(--notebook-teal);
     }
   }
 
@@ -58,13 +58,13 @@
   .fal,
   .fa-brands,
   .ai {
-    color: #426c63;
+    color: var(--notebook-teal);
   }
 }
 
 .page__footer-copyright {
   flex: 0 0 auto;
-  color: #667085;
+  color: var(--notebook-muted);
   font-family: $sans-serif-narrow;
   font-size: $type-size-7;
   letter-spacing: 0;
@@ -102,9 +102,9 @@
     gap: 0.35rem;
     min-height: 1.9rem;
     padding: 0.25rem 0.55rem;
-    border: 1px solid rgba(217, 224, 231, 0.95);
+    border: 1px solid rgba(var(--notebook-line-rgb), 0.95);
     border-radius: 999px;
-    background: #f6f8fb;
+    background: var(--notebook-surface);
     font-weight: bold;
   }
 
@@ -123,7 +123,7 @@
 
 .page__footer-label {
   margin: 0;
-  color: #667085;
+  color: var(--notebook-muted);
   font-family: $sans-serif-narrow;
   font-size: $type-size-7;
   font-weight: bold;
