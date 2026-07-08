@@ -16,11 +16,6 @@ excerpt: "Research and publications by Mati Ur Rehman on AI contestation, attrib
       <p class="notebook-dek">Current work on AI contestation, attribution, AI blaming, and human responses to automated decisions.</p>
     </div>
 
-    <aside class="research-summary research-summary--compact">
-      <p class="notebook-section-label">Current focus</p>
-      <p>AI Contestation, Attribution, AI Blaming.</p>
-    </aside>
-
     <div class="notebook-actions" aria-label="Research links">
       {% if site.author.googlescholar %}
         <a class="notebook-button notebook-button--primary" href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>
@@ -28,6 +23,11 @@ excerpt: "Research and publications by Mati Ur Rehman on AI contestation, attrib
       <a class="notebook-button" href="/files/Mati_Ur%20Rehman-Curriculum_Vitae.pdf"><i class="fas fa-file-alt" aria-hidden="true"></i> Download CV</a>
       <a class="notebook-button" href="mailto:mati@iastate.edu"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
     </div>
+  </section>
+
+  <section class="research-focus research-focus--compact" aria-label="Current research focus">
+    <p class="notebook-section-label">Current focus</p>
+    <p>AI Contestation, Attribution, AI Blaming.</p>
   </section>
 
   <section class="notebook-research-section" aria-labelledby="current-ai-work">

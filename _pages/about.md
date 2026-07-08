@@ -11,18 +11,6 @@ redirect_from:
 
 <main class="notebook-home" aria-labelledby="home-title">
   <section class="notebook-hero">
-    <div class="notebook-hero__portrait">
-      <img
-        src="/images/profile-640.jpg"
-        srcset="/images/profile-320.jpg 320w, /images/profile-640.jpg 640w"
-        sizes="(max-width: 520px) 82px, 255px"
-        alt="Mati Ur Rehman">
-      <div class="notebook-hero__caption">
-        <span>PhD Candidate</span>
-        <span>Iowa State University</span>
-      </div>
-    </div>
-
     <div class="notebook-hero__content">
       <p class="notebook-kicker">Information Systems</p>
       <h1 id="home-title">Mati Ur Rehman</h1>
@@ -44,16 +32,29 @@ redirect_from:
       </div>
     </div>
 
-    <aside class="research-summary" aria-label="Current AI research agenda">
-      <span class="research-summary__label">Research agenda</span>
-      <p>AI contestation: when users push back against automated decisions, how responsibility is assigned, and how organizations respond.</p>
-      <ul class="notebook-question-list">
-        <li>When do users contest AI decisions?</li>
-        <li>Who is held responsible for AI errors?</li>
-        <li>Which responses make contestation possible?</li>
-      </ul>
-    </aside>
+    <div class="notebook-hero__portrait">
+      <img
+        src="/images/profile-640.jpg"
+        srcset="/images/profile-320.jpg 320w, /images/profile-640.jpg 640w"
+        sizes="(max-width: 520px) 82px, 255px"
+        alt="Mati Ur Rehman">
+      <div class="notebook-hero__caption">
+        <span>PhD Candidate</span>
+        <span>Iowa State University</span>
+      </div>
+    </div>
+  </section>
 
+  <section class="research-focus" aria-label="Current AI research agenda">
+    <div>
+      <p class="notebook-section-label">Research agenda</p>
+      <p>AI contestation: when users push back against automated decisions, how responsibility is assigned, and how organizations respond.</p>
+    </div>
+    <ul class="research-focus__list">
+      <li>When do users contest AI decisions?</li>
+      <li>Who is held responsible for AI errors?</li>
+      <li>Which responses make contestation possible?</li>
+    </ul>
   </section>
 
   <section class="notebook-grid" aria-label="Homepage sections">
