@@ -83,7 +83,20 @@ redirect_from:
   <section class="notebook-strip" aria-label="Academic details">
     <div>
       <p class="notebook-section-label">Academics</p>
-      <p>Ph.D. Candidate, Information Systems, Ivy College of Business, Iowa State University.</p>
+      <ul class="notebook-education-list">
+        <li>
+          <span>Ph.D. Candidate, Information Systems</span>
+          <a href="https://www.ivybusiness.iastate.edu/directory/mati/">Ivy College of Business, Iowa State University</a>
+        </li>
+        <li>
+          <span>Masters in Information Technology</span>
+          <a href="https://www.swinburne.edu.au/">Swinburne University of Technology, Melbourne, Australia</a>
+        </li>
+        <li>
+          <span>Bachelor of Science in Electrical Engineering</span>
+          <a href="https://lums.edu.pk/">Lahore University of Management Sciences, Lahore, Pakistan</a>
+        </li>
+      </ul>
     </div>
     <div id="contact">
       <p class="notebook-section-label">Contact</p>
